@@ -86,4 +86,5 @@
 ###### Alabi Tantoluwa
 
 ## SCA Community Members
+[Lois Choji](https://github.com/LoisChoji)
 
