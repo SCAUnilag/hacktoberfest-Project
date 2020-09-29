@@ -34,7 +34,7 @@
 - On a new line, add your name and a link to your Github profile
 
 - For example ,  
-  `[Full Name](https://github.com/your-username)`
+  `[Lois Choji](https://github.com/LoisChoji)`
 
 - Stage your changes
 
