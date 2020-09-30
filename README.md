@@ -81,7 +81,7 @@
 ###### Mercy Benn-Itua
 ###### Rukhayat Orekoya
 ###### Olamide Makinde
-###### Farounbi Abiola
+###### [Farounbi Abiola](https://github.com/Abiola-Farounbi)
 ###### Ifihanagbara Olusheye
 ###### Alabi Tantoluwa
 
