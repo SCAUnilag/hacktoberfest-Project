@@ -75,7 +75,7 @@
 
 ## SCA Unilag Team Members
 
-[Ayobami Ogunfemi](https://github.com/bamiogufemi)
+[Bami Ogunfemi](https://github.com/bamiogunfemi)
 ###### Akinjobi Sodiq
 ###### Mbaooma Chioma
 ###### Mercy Benn-Itua
@@ -86,4 +86,8 @@
 ###### Alabi Tantoluwa
 
 ## SCA Community Members
-[Ogundairo Iyinoluwa] (https://github.com/DairoIyin)
+
+[Motunrayo Ilawole](https://github.com/TunrayoIlawole)
+[Ogundairo Iyinoluwa](https://github.com/DairoIyin)
+
+
