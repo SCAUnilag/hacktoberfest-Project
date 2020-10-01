@@ -4,7 +4,6 @@
 2. Make any changes in your forked repo
 3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
 
-
 ## How to clone repo and make changes locally
 
 ```
@@ -76,14 +75,21 @@
 ## SCA Unilag Team Members
 
 [Ayobami Ogunfemi](https://github.com/bamiogufemi)
+
 ###### Akinjobi Sodiq
+
 ###### Mbaooma Chioma
+
 ###### Mercy Benn-Itua
+
 ###### Rukhayat Orekoya
-###### Olamide Makinde
+
+[Olamide Makinde](https://github.com/tiaraoluwanimi)
+
 ###### Farounbi Abiola
+
 ###### Ifihanagbara Olusheye
+
 ###### Alabi Tantoluwa
 
 ## SCA Community Members
-
