@@ -78,7 +78,7 @@
 [Bami Ogunfemi](https://github.com/bamiogunfemi)
 ###### Akinjobi Sodiq
 ###### Mbaooma Chioma
-###### Mercy Benn-Itua
+[Mercy Benn-Itua](https://github.com/mercymastermind)
 ###### Rukhayat Orekoya
 ###### Olamide Makinde
 ###### [Farounbi Abiola](https://github.com/Abiola-Farounbi)
