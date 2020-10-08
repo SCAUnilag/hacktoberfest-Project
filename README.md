@@ -87,9 +87,11 @@
 
 ## SCA Community Members
 
+[Nusaybah Fuad-Gafar](https://github.com/Nusaybah516)
 [Oloye Onaopemipo](https://github.com/Onaope)
 [Motunrayo Ilawole](https://github.com/TunrayoIlawole)
 [Ogundairo Iyinoluwa](https://github.com/DairoIyin)
 [Abolare Roheemah](https://github.com/AbolareRoheemah)
+
 
 
