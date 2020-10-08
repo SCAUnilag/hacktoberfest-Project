@@ -15,6 +15,7 @@
 
 ```
   git clone https://github.com/yourGithubUsername/Project.git
+  
 ```
 
 - switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
