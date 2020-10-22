@@ -83,7 +83,7 @@
 ###### Olamide Makinde
 ###### [Farounbi Abiola](https://github.com/Abiola-Farounbi)
 ###### Ifihanagbara Olusheye
-###### Alabi Tantoluwa
+[Alabi Tantoluwa Heritage] (https://github.com/HERITAGEALABI)
 
 ## SCA Community Members
 
